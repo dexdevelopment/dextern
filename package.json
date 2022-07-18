@@ -1,0 +1,19 @@
+{
+  "name": "dextern",
+  "version": "1.0.0",
+  "description": "AI and automation focused discord bot, built on D.JS v14.",
+  "main": "dextern.js",
+  "scripts": {
+    "test": "nodemon -e js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexdevelopment/dextern.git"
+  },
+  "author": "Dex Development",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dexdevelopment/dextern/issues"
+  },
+  "homepage": "https://github.com/dexdevelopment/dextern#readme"
+}
